@@ -11,7 +11,7 @@ cat << EOM > /var/www/html/index.html
   <!-- BEGIN -->
   <center><img src="http://${PLACEHOLDER}/${WIDTH}/${HEIGHT}"></img></center>
   <center><h2>Meow World!</h2></center>
-  Welcome to ${PREFIX}'s app. ola k ase, provisionas infraestructura en Azure o ke ase?. 
+  Welcome to ${PREFIX}'s app. ola k ase, provisionas infraestructura en Azure con estimación de costes o ke ase?. 
   <!-- END -->
   
   </div>
